@@ -10,9 +10,9 @@ class About extends Component {
                             <div class="row mb-5   align-items-center">
                                 <div class="col-lg-5 pr-lg-5 mb-5 mb-lg-0">
                                     <img 
-                                    src="images/m2.jpg"                                    
+                                    src="images/m2.JPG"                                    
                                     alt="Image placeholder" 
-                                    class="img-fluid "/>
+                                    class="img-fluid rrr "/>
                                 </div>
                                 <div class="col-lg-7 pl-lg-5">
                                     <div class="section-heading">
@@ -86,15 +86,15 @@ class About extends Component {
                             <img
                             className="center-block z"
                             width="30%"
-                            src="images/23.jpg"
+                            src="images/oct.jpg"
                             alt="First slide"
                             />
 
                             <Carousel.Caption>
                           
                             </Carousel.Caption>
-                            <h3 class="carousel1">Book for September</h3>
-                            <p class="carousel2 mb-5">This month I'm reading a book on Jim Simons of Renaissance Technologies</p>
+                            <h3 class="carousel1">Book for October</h3>
+                            <p class="carousel2 mb-5">This month I'm reading a book on how to play poker by Doyle Brunson</p>
                             
                         </Carousel.Item>
                         <Carousel.Item>

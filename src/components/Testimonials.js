@@ -28,6 +28,10 @@ class Testimonial extends Component {
                             <div class="mb-4 rectangle center">
                                 <p className="center">Java</p>
                             </div>
+                            <div class="mb-4 rectangle center">
+                                <p className="center">SQL</p>
+                            </div>
+ 
  
                         </div>
 
@@ -47,6 +51,9 @@ class Testimonial extends Component {
                             
                             <div class="mb-4 rectangle center">
                                     <p className="center">JavaScript</p>
+                            </div>
+                            <div class="mb-4 rectangle center">
+                                <p className="center">R </p>
                             </div>
                             
                         </div>

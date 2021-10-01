@@ -26,7 +26,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div>
                                             <a href="https://github.com/manvir720s/vehicleRepository.git">
-                                            <img class="photo img-fluid" src="images/vehicle.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/vehicle.JPG" alt=""/>
                                             </a>
                                         </div>                              
                                     </div>
@@ -41,7 +41,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div>
                                             <a href="https://github.com/manvir720s/firebaseToDo/tree/master">
-                                            <img class="photo img-fluid" src="images/firebasecrud.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/firebasecrud.JPG" alt=""/>
                                             </a>
                                         </div>
                            
@@ -60,7 +60,7 @@ class Portfolio extends Component {
                                             <img 
                                             class="photo img-fluid" 
                                             
-                                            src="images/agepredict.jpg" alt=""/>
+                                            src="images/agepredict.JPG" alt=""/>
                                             </a>
                                         </div>
                                                                  
@@ -78,7 +78,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div>
                                             <a href="https://github.com/manvir720s/iris-classification.git">
-                                            <img class="photo img-fluid" src="images/iris.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/iris.JPG" alt=""/>
                                             </a>
                                         </div>
                                                              
@@ -94,7 +94,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div> 
                                             <a href="https://github.com/manvir720s/dma-3ma-rsi-macd.git">
-                                            <img class="photo img-fluid" src="images/macd.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/macd.JPG" alt=""/>
                                             </a>
                                         </div>
                                                                  
@@ -110,7 +110,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div>
                                             <a href="https://github.com/manvir720s/CarPrices.git">
-                                            <img class="photo img-fluid" src="images/determinePrice.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/determinePrice.JPG" alt=""/>
                                             </a>
                                         </div>
                                                              
@@ -125,7 +125,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div>
                                             <a href="https://github.com/manvir720s/GasolineType.git">
-                                            <img class="photo img-fluid" src="images/fuelType.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/fuelType.JPG" alt=""/>
                                             </a>
                                         </div>
                                                                  
@@ -157,7 +157,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div>
                                             <a href="https://github.com/manvir720s/financeoptomization.git">
-                                            <img class="photo img-fluid" src="images/optomizer.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/optomizer.JPG" alt=""/>
                                             </a>
                                         </div>                              
                                     </div>
@@ -171,7 +171,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div> 
                                             <a href="https://github.com/manvir720s/stock-techincals.git">
-                                            <img class="photo img-fluid" src="images/ltsm.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/ltsm.JPG" alt=""/>
                                             </a>
                                         </div>
                                                                  
@@ -186,7 +186,7 @@ class Portfolio extends Component {
                                         <div class="thumb">
                                             <div class="overlay overlay-bg"></div>
                                             <a href="https://github.com/manvir720s/heightWeight.git">
-                                            <img class="photo img-fluid" src="images/heightweight.jpg" alt=""/>
+                                            <img class="photo img-fluid" src="images/heightweight.JPG" alt=""/>
                                             </a>
                                         </div>
 

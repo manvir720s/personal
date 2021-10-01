@@ -41,6 +41,7 @@
   text-align: center;
   }
 
+
   .rectangle {
     height: 60px;
     width: 250px;
@@ -147,4 +148,10 @@
   font-size: 18px;
   color: rgba(197, 197, 197, 0.548);
   font-weight: 300;
+}
+
+.rrr{
+  border-radius: 15px;
+  background: #bac964;
+  padding: 20px;
 }
