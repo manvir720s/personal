@@ -93,7 +93,7 @@ class About extends Component {
                             <Carousel.Caption>
                           
                             </Carousel.Caption>
-                            <h3 class="carousel1">Book for October</h3>
+                            <h3 class="carousel1">Book for January</h3>
                             <p class="carousel2 mb-5">This month I'm reading a book on how to play poker by Doyle Brunson</p>
                             
                         </Carousel.Item>
