@@ -18,17 +18,17 @@ class About extends Component {
                             <div class="section-heading">
                                 <h1>About <strong>Me <Emoji name="fire" size="40" /> <Emoji name="racing_car" size="40" /></strong></h1>
                             </div>
-                            <p class="lead">I am a 2nd Year Double Degree Computer Science (UW)
-                                and Business (WLU) student graduating in 2025. I enjoy using my coding skills to create applications
-                                that can make our lives easier and help us understand large datasets better.
-                            </p>
-
-                            <p class="lead">Besides doing school work and working on my coding skills, some other things I enjoy
-                                is playing volleyball, basketball, and reading autobiographies. I'm also an absolute car fanatic as I spent more than time than
-                                I would like to admit window-shopping on AutoTrader, watching videos on YouTube, and
-                                playing Forza Horizon 5 or Assetto Corsa on a Logitech G920. And when I'm not
-                                doing any of that I'm usually watching Sopranos, South Park, and Billions</p>
-
+                            <p class="lead">I'm a 4th-year student pursuing a Double Degree in Computer Science at the University of Waterloo (UW)
+                                and Business at Wilfrid Laurier University (WLU). My academic journey blends technical prowess and business acumen,
+                                and I'm passionate about using my coding skills to craft applications that simplify daily tasks and enhance our understanding
+                                of complex data. Whether it's building mobile apps for efficiency or web applications for data analysis, I derive immense
+                                satisfaction from coding.</p>
+                            <p class="lead">Beyond academics, I'm a sports enthusiast, often found on the basketball or volleyball court.
+                                Cars fascinate me, not just as vehicles but as feats of engineering and design. In my spare time, I indulge in building mobile
+                                and web apps, reading books, and occasionally testing my luck in poker. When it comes to entertainment, I have a penchant for TV shows
+                                like "Billions," "South Park," and I find myself revisiting the timeless classic, "The Sopranos." I'm a well-rounded individual with
+                                a passion for technology, sports, cars, literature, and the occasional card game. Don't hesitate to reach out if you'd like to chat
+                                about coding, sports, or any of my other interests—I'm always up for a great conversation!</p>
 
                             <h4><strong>Awards:</strong></h4>
                             <ul class="lead">
