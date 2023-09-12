@@ -10,7 +10,7 @@ class Resume extends Component {
                                 <h2>My <strong>Resume</strong></h2>
                             </div>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                             <h2 class="mb-5" >Education</h2>
                             <div class="resume-item mb-4">
                                 <span class="date"><span class="icon-calendar"></span> September 2020 - Graduating 2025</span>
@@ -31,7 +31,7 @@ class Resume extends Component {
 
 
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-12">
 
 
                             <h2 class="mb-5">Experience</h2>
@@ -43,8 +43,8 @@ class Resume extends Component {
                                     <li><strong class="c3">Data Validation and Cleansing Automation:</strong></li>
                                     <ul>
                                         <li><strong class="c3">Designed</strong> and <strong class="c3">maintained</strong> a comprehensive
-                                            library of Python scripts utilizing <strong class="c3">Pandas</strong> and <strong class="c3">Selenium</strong>
-                                            to streamline and automate data validation and cleansing processes. These scripts effectively identified and
+                                            library of Python scripts utilizing <strong class="c3">Pandas</strong> and <strong class="c3">Selenium</strong> to
+                                            streamline and automate data validation and cleansing processes. These scripts effectively identified and
                                             rectified data discrepancies, leading to a remarkable <strong class="c3">98% reduction</strong> in errors and
                                             inconsistencies within our datasets. This automation not only saved valuable time but also significantly
                                             improved data accuracy and reliability, contributing to more informed decision-making.</li>
@@ -61,8 +61,7 @@ class Resume extends Component {
 
                                     <li><strong class="c3">Customized Automation for Language Conversion:</strong></li>
                                     <ul>
-                                        <li>Collaborated closely with Quebec sales teams to address a critical need for language adaptation. <strong class="c3">Developed and implemented</strong>
-                                            a customized script that automated the conversion of English PowerPoint presentations to French. This innovative solution led to
+                                        <li>Collaborated closely with Quebec sales teams to address a critical need for language adaptation. <strong class="c3">Developed and implemented</strong> a customized script that automated the conversion of English PowerPoint presentations to French. This innovative solution led to
                                             a remarkable <strong class="c3">25% increase</strong> in productivity, as it eliminated the need for time-consuming manual
                                             translations. The script not only saved valuable resources but also ensured that the company's communication materials were
                                             localized accurately and efficiently, strengthening its outreach to French-speaking audiences.</li>
@@ -70,8 +69,8 @@ class Resume extends Component {
 
                                     <li><strong class="c3">Proficiency in Project Management Tools:</strong></li>
                                     <ul>
-                                        <li>Demonstrated expertise in project management tools such as <strong class="c3">Confluence</strong>, <strong class="c3">Jira</strong>, and
-                                            <strong class="c3">Salesforce</strong>, which played a pivotal role in facilitating effective collaboration and documentation within the
+                                        <li>Demonstrated expertise in project management tools such as <strong class="c3">Confluence</strong>, <strong class="c3">Jira</strong>,
+                                            and <strong class="c3">Salesforce</strong>, which played a pivotal role in facilitating effective collaboration and documentation within the
                                             organization. By utilizing these tools, I enhanced project tracking, streamlined communication, and ensured that all team members had
                                             access to essential project information. This proficiency not only improved overall project efficiency but also promoted transparency
                                             and accountability throughout the project lifecycle.</li>
@@ -126,23 +125,6 @@ class Resume extends Component {
 
                             </div>
 
-                            <div class="resume-item mb-4">
-                                <span class="date"><span class="icon-calendar"></span> June 2020 - August 2020</span>
-                                <span class="c3">WINterview</span>
-                                <h6>Part-Time Backend Developer</h6>
-                                <ul>
-                                    <li>Used <strong class="c3">Java</strong> to fetch error-reports from
-                                        <strong class="c3"> FireStore</strong> and store them in a
-                                        local JSON file to reduce expenses of an online server</li>
-                                    <li>Transferred data between <strong class="c3"> FireStore</strong> and
-                                        <strong class="c3"> Realtime Database </strong>to improve efficiency
-                                        of application
-                                    </li>
-                                    <li>Worked with other team members on <strong class="c3"> Github</strong> to share code and work
-                                        on seperate branches </li>
-                                </ul>
-
-                            </div>
                             <div class="resume-item mb-4">
                                 <span class="date"><span class="icon-calendar"></span> June 2020 - August 2020</span>
                                 <span class="c3">M&M Carriers Ltd.</span>
